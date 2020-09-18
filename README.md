@@ -1,5 +1,3 @@
-# A UBC CPSC436V Data Vis d3.js project
-
-Click github pages url above to check it out!
+A group project with myself and two other students for data vis course at UBC, CPSC436v
 
 ![m2 Screenshot](./m3_screenshot.PNG)
